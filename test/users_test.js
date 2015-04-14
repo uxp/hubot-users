@@ -8,7 +8,7 @@
     var assert = require("assert"),
         sinon  = require("sinon");
 
-    suite("Admin", function() {
+    suite("Auth", function() {
         var robot = {}
 
         setup(function() {
@@ -17,7 +17,7 @@
                 hear: sinon.spy()
             };
 
-            require("../src/admin")(robot);
+            require("../src/users")(robot);
         });
 
         teardown(function() {

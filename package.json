@@ -1,14 +1,14 @@
 {
-  "name": "hubot-admin",
+  "name": "hubot-users",
   "version": "0.0.1",
-  "description": "Administration of Hubot",
+  "description": "Administration of Hubot users",
   "main": "index.js",
   "scripts": {
     "test": "./script/test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uxp/hubot-admin.git"
+    "url": "https://github.com/uxp/hubot-users.git"
   },
   "keywords": [
     "hubot"
@@ -16,9 +16,9 @@
   "author": "Howard Logsdon",
   "license": "BSD-3",
   "bugs": {
-    "url": "https://github.com/uxp/hubot-admin/issues"
+    "url": "https://github.com/uxp/hubot-users/issues"
   },
-  "homepage": "https://github.com/uxp/hubot-admin",
+  "homepage": "https://github.com/uxp/hubot-users",
   "devDependencies": {
     "mocha": "^2.2.4",
     "sinon": "^1.14.1"
