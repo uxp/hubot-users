@@ -14,7 +14,10 @@
     "hubot"
   ],
   "author": "Howard Logsdon",
-  "license": "BSD-3",
+  "contributors": [
+    "Alex Williams (http://github.com/aw)"
+  ],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/uxp/hubot-users/issues"
   },
